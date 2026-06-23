@@ -1,6 +1,8 @@
 # JDEV 2026 Python Workshop
 
-This project is a **Python workshop** designed to teach students how to create and publish a Python package on PyPI. The package is an educational demo of RSA encryption and breaking.
+This project is a **Python workshop** designed to teach students how to create and publish a Python package on PyPI. The package is an educational demo of RSA encryption and breaking.  
+
+We will use venv and setuptools, the standard and universal tools integrated in Python to learn the basics. Later you can use your favorite tools (poetry, uv, pixi, etc.) to create your own package. In the same way, you can use your favorite tools (Gitlab, Github, etc.) to automatize the build and publish process, and PyPI or your own repository to publish your package. The only need you have to know is a little bit of Python and Git and a working Github account. The rest will be explained in the workshop.
 
 # RSA Encryption & Breaking Demo (Educational)
 
